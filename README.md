@@ -1,8 +1,12 @@
 # what-remains---
 
-## Example / 示例
+## Featured / 展示
+
+Shared Bike After Use / 使用之后的共享单车
 
 ![bike](data/images/shared_bike_after_use.jpg)
+Left after use, without anyone noticing.
+使用之后被留下，没有人再注意它。
 
 ---
 
