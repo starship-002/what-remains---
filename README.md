@@ -58,16 +58,11 @@ These images may be:
 * 噪点明显
 * 色彩偏差
 
----
-
 These are not flaws.
-
 They are part of the record.
 
 这并不是缺点，
 而是记录的一部分。
-
----
 
 In many cases,
 imperfection preserves more than perfection.
