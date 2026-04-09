@@ -16,6 +16,11 @@ Chalk and Screen / 板书与屏幕
 He kept writing even after the screen was already on.
 屏幕已经打开，他仍然继续在黑板上书写。
 
+End of infrastructure wave / 建设浪潮的尾声
+![building](data/images/end_of_infrastructure_wave.jpg)
+A skyline still rising at the end of an era.  
+在一个时代的末尾，天际线仍在上升。
+
 ---
 
 ## Origin / 来源
