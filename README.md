@@ -18,9 +18,7 @@ He kept writing even after the screen was already on.
 
 ---
 
-What remains after loss: recovered images that preserve traces of time. This is not a photo collection. This is what remains. 遗失之后仍然留下的部分：被抢救回来的时代碎片
-
-Origin / 来源
+## Origin / 来源
 Many images in this archive were recovered from damaged storage.
 
 Old hard drives were cleaned.
