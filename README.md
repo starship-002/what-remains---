@@ -1,4 +1,7 @@
-# what-remains---
+# what-remains---仍然留下的部分
+
+What remains after loss: recovered images that preserve traces of time
+遗失之后仍然留下的部分：被抢救回来的时代痕迹
 
 ## Featured / 展示
 
@@ -7,6 +10,11 @@ Shared Bike After Use / 使用之后的共享单车
 ![bike](data/images/shared_bike_after_use.jpg)
 Left after use, without anyone noticing.
 使用之后被留下，没有人再注意它。
+
+Chalk and Screen / 板书与屏幕
+![classroom](data/images/chalk_and_screen.jpg)
+He kept writing even after the screen was already on.
+屏幕已经打开，他仍然继续在黑板上书写。
 
 ---
 
